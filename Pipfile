@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 pyzmq = "*"
+zeep = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
